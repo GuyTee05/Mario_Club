@@ -1,0 +1,67 @@
+
+div.header {
+    background-color: rgb(255, 0, 0);
+    padding: 20px;
+    text-align: center;
+    color: white; 
+}
+div.header h3 {
+  border: solid white 5px;  
+  display: inline-block;
+  padding: 6px;
+  border-radius: 30px;
+}   
+
+div.links {
+    background-color: rgb(176, 179, 180);
+    padding: 15px;
+    text-align:center;
+}
+div.links a {
+color: white;
+font-size: 20px;
+text-decoration:none ;
+margin-left:35px;
+margin-right:35px;
+}
+
+div.main_content h2 {
+    color: red;
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+
+}
+div.main_content p {
+    font-size: 28px;
+    text-align: justify;
+    font-family: cursive;
+    margin-left: 30px;
+    margin: right 30px;;
+}
+div.contact{
+    font-size: 20px;
+    background-color: #c4bfbf;
+    padding: 30px;
+    text-align: center;
+    font-family: cursive;
+    color: #000000;
+}
+div.copyright {
+    font-size: 20px;
+    background-color: red;
+    padding: 10px;
+    font-family: cursive;
+    text-align: center;
+    color: white;
+}
+div.photos {
+text-align: center;
+
+}
+div.photos img {
+    width: 40%;
+    margin-left: 10px;
+    margin: right 10px; ;
+    border-bottom: solid red 8px;
+}
